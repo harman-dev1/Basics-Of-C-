@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buliding Calculator with Numbers", "Buliding Calculator with Numbers\Buliding Calculator with Numbers.csproj", "{0C6F3E4B-424D-46B6-8030-12F960A299E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6F3E4B-424D-46B6-8030-12F960A299E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6F3E4B-424D-46B6-8030-12F960A299E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6F3E4B-424D-46B6-8030-12F960A299E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6F3E4B-424D-46B6-8030-12F960A299E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F6F2C4-B0E9-4AC7-885F-4F8C67C13A4A}
+	EndGlobalSection
+EndGlobal
