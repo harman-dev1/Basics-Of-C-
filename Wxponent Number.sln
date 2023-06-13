@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wxponent Number", "Wxponent Number\Wxponent Number.csproj", "{7B914391-9ED4-47B8-B64D-29F4062DC560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B914391-9ED4-47B8-B64D-29F4062DC560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B914391-9ED4-47B8-B64D-29F4062DC560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B914391-9ED4-47B8-B64D-29F4062DC560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B914391-9ED4-47B8-B64D-29F4062DC560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2AAEE24-1231-4ABB-AFB2-82749C116167}
+	EndGlobalSection
+EndGlobal
